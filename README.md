@@ -1,13 +1,13 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<img align="right" width="64" src="https://github.com/nameisminh.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm TienNHM</h2>
+<h2 align="center">Hi 👋, I'm ming0811_</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">a gamer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+> ✍ I'm Gamer... 
 
 <br />
 
@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="873073921589661698" alt="My discord" target="_blank" >
-    <img src="https://img.icons8.com/?size=256&id=30998&format=png"/>
+    <img src="https://img.icons8.com/48/000000/discord.png"/>
   </a>
 </p>
 
