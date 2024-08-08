@@ -2,7 +2,7 @@
 <img align="right" width="64" src="https://github.com/nameisminh.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm ming0811_</h2>
+<h2 align="center">Hi 👋, I'm ming</h2>
 <p align="center">
   <h3 align="center">a gamer from Vietnam 🇻🇳 </h3>
 </p>
